@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: 793032e5f3cbca84a914a710167fd0ac
+  - enabled: 1
+    path: Assets/Scenes/LevelOne.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LevelTwo.unity
+    guid: 88995170d524d024f9654470bb0808b5
+  - enabled: 1
+    path: Assets/Scenes/Winner.unity
+    guid: e02783f95000a30498438f2f37aa8bef
+  - enabled: 1
+    path: Assets/Scenes/Loser.unity
+    guid: 39dfb098bc750f44eb9d7407aaf51049
   m_configObjects: {}
